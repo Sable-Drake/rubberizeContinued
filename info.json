@@ -1,0 +1,13 @@
+{
+	"name": "rubberizeContinued",
+	"version": "0.2.0",
+	"title": "Black Rubber Belts 2.0 Compatibility",
+	"author": "hay_guise, SableDrake",
+	"contact": "",
+    "homepage": "",
+	"dependencies": [  
+      "black-rubber-belts-continued"
+	],
+	"description": "adds deadlock's black rubber belt continued reskin to space age and modded belts",
+	"factorio_version": "2.0"
+}
